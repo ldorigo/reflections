@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A .git directory is created. It is needed to start tracking changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's an in-between zone. A buffer for selecting changes to be made.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By reviewing all changes about to be made.
