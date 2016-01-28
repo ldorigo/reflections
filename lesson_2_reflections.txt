@@ -13,3 +13,7 @@ By reviewing all changes about to be made.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When trying out different versions of a file.
+
+How do the diagrams help you visualize the branch structure?
+
+By giving a visual representation of it.
