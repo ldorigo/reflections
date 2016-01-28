@@ -17,3 +17,8 @@ When trying out different versions of a file.
 How do the diagrams help you visualize the branch structure?
 
 By giving a visual representation of it.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Putting al new and deleted code together. Because it reuintes the code as one "branch"
+
