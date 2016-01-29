@@ -5,3 +5,7 @@ In case I need to collaborate on a project.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 To have control on the versions of my files
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are only on github and made to independently work on another person's code. clone is from a github repo to a local repo. A pranch is on the same repo.
