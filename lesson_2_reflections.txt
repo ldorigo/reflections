@@ -22,3 +22,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Putting al new and deleted code together. Because it reuintes the code as one "branch"
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+In some occasions, the automatic method is much faster.
